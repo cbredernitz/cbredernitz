@@ -7,7 +7,6 @@ Backend Software Engineer
 I've been coding for 8+ years, first starting out with Python during my time as a Master's student at the University of Michigan studying Data Science. I originally focused on scripting and tackling machine learning and data analytics challenges to solve key issues, but later discovered my passion for building applications. It was during my time at Ford Motor Company that I began transitioning into Java Spring Boot for application development, never shying away from adding another language or framework to my belt. While at Ford, I had the pleasure of building both internal and customer-facing web applications utilizing Vue, React, and Angular, as well as managing infrastructure for cloud migrations and provisioning through Terraform and GCP.
 
 * 🌍  I'm based in Denver, Colorado
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects and leveraging machine learning
 * ⚡  I'm open to new opportunities
 
